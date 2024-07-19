@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+D:\Kuliah\Dokumen\SEMESTER 4\Praktek Pemrograman Jaringan\UAS\UDP\T2\T2_UDP_CLIENT_062230701416\MyForm.h(175,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Kuliah\Dokumen\SEMESTER 4\Praktek Pemrograman Jaringan\UAS\UDP\T2\T2_UDP_CLIENT_062230701416\MyForm.h(228,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Kuliah\Dokumen\SEMESTER 4\Praktek Pemrograman Jaringan\UAS\UDP\T2\T2_UDP_CLIENT_062230701416\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  T2_UDP_CLIENT_062230701416.vcxproj -> D:\Kuliah\Dokumen\SEMESTER 4\Praktek Pemrograman Jaringan\UAS\UDP\T2\T2_UDP_CLIENT_062230701416\x64\Debug\T2_UDP_CLIENT_062230701416.exe
